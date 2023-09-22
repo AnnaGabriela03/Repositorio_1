@@ -1,1 +1,2 @@
-print("hello world")
+variavel = "for_code"
+print(f"A {variavel}")
